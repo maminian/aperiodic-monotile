@@ -19,7 +19,7 @@ points = [
  
  module tile() {
      linear_extrude(4) {
-         scale(10) polygon(points);
+         scale(5) polygon(points);
      }
  }
  
